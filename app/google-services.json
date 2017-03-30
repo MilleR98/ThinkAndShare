@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219803500908",
+    "firebase_url": "https://thinkandshare-76f1f.firebaseio.com",
+    "project_id": "thinkandshare-76f1f",
+    "storage_bucket": "thinkandshare-76f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219803500908:android:e73e4211f883f5a1",
+        "android_client_info": {
+          "package_name": "com.dev.thinkandshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219803500908-39gd8gca6eb8hdndc6v5njernro9gitl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.thinkandshare",
+            "certificate_hash": "7ac2ac5c48848a65979a2f645c43dc3b47747725"
+          }
+        },
+        {
+          "client_id": "219803500908-nmbrpd9uqb33lsan3v64set7eqck4gb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB517EhwrewA79Od04JhyjzBvOg-R_QCHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219803500908-nmbrpd9uqb33lsan3v64set7eqck4gb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
